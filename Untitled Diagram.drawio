@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-27T00:36:19.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2MiwQ214pOwVQ_Akp2IS" version="21.3.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-27T01:46:41.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="P1zVbDFGJuQOZSnUNtSW" version="21.3.4" type="github" pages="9">
   <diagram name="Page-1" id="dWDN8wAfHk-EL6apl8tl">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -809,6 +809,38 @@
           <mxGeometry x="0.1757" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7pJbr0l6AOsIXTPmbpGc" name="Page-9">
+    <mxGraphModel dx="1050" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-90" width="800" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-90" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-3" value="trang chủ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-4" value="hô sơ nhân vật" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-5" value="thể loại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-6" value="hot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-7" value="đăng nhập&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KIaF0Jrt9Yukl8H4Qn6i-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
